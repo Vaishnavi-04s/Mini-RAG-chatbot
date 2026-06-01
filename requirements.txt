@@ -1,0 +1,7 @@
+pypdf
+sentence-transformers
+langchain-text-splitters
+faiss-cpu
+numpy
+google-generativeai
+python-dotenv
